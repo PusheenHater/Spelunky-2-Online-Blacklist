@@ -813,7 +813,7 @@ const data =
 { name: `zypie`, platform: `Steam`, reasons: `- Rusher` },
 ];
 
-let showReasons = false;
+let showReasons = true;
 document.getElementById('toggleReasons').onclick = function()
 {
   showReasons = !showReasons;
