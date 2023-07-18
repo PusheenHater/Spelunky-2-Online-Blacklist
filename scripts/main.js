@@ -34,6 +34,7 @@ const data =
 - Threw curse jar at us without asking` },
 { name: `Aim`, platform: `Switch`, reasons: `- Robbed shopkeeper, failed, died, then flaked` },
 { name: `Airyn`, platform: `Steam`, reasons: `- Robbed shopkeep even though we had enough money` },
+{ name: `aizel87wy`, platform: `PS`, reasons: `- Rusher` },
 { name: `Akubakemono`, platform: `Steam`, reasons: `- Robbed shopkeep for no reason
 - Flaked after dying` },
 { name: `Alan y Andre`, platform: `Xbox`, reasons: `- Robbed shopkeep for nothing good` },
@@ -78,6 +79,9 @@ const data =
 { name: `beans in a bucket`, platform: `Steam`, reasons: `- Tried to sacrifice others without asking` },
 { name: `Bearable`, platform: `Steam`, reasons: `- Rushes
 - Flakes after dying` },
+{ name: `BEB2011`, platform: `Switch`, reasons: `- Suddenly raged and killed all of us
+- Roped and bombed us
+- Toxic` },
 { name: `Bendecido_pa`, platform: `PS`, reasons: `- Flaked after dying` },
 { name: `benjam2007`, platform: `Steam`, reasons: `- Rusher` },
 { name: `Benjy`, platform: `Switch`, reasons: `- Rusher
@@ -112,6 +116,8 @@ const data =
 { name: `bray yt`, platform: `Switch`, reasons: `- Selfish, doesn't want to be cursed even when he has lower health, but will curse others
 - Stole someone's turkey health
 - Flaked after dying` },
+{ name: `Bruno`, platform: `Switch`, reasons: `- Robbed shopkeeper for nothing good
+- Plays poorly` },
 { name: `BumbleFuzz`, platform: `Switch`, reasons: `- Robbed shopkeep
 - Left the game soon after` },
 { name: `bux54`, platform: `Steam`, reasons: `- Rusher
@@ -176,6 +182,9 @@ const data =
 - Robbed shopkeeper for nothing
 - Plays poorly
 - Then roped us` },
+{ name: `cute`, platform: `Switch`, reasons: `- Roped us at the beginning and killed us all for no reason
+- Purposely went out to kill us
+- Super toxic` },
 { name: `Cyan`, platform: `Steam`, reasons: `- Flaked after dying` },
 { name: `D`, platform: `Switch`, reasons: `- Flaked after dying` },
 { name: `D0geLuvr III the Gentle Sadist`, platform: `Steam`, reasons: `- Rager
@@ -236,6 +245,7 @@ const data =
 - Flaked after dying` },
 { name: `doossshh`, platform: `PS`, reasons: `- Whips us for no reason
 - Damages us for no reason` },
+{ name: `dorisaur`, platform: `Steam`, reasons: `- Robbed shopkeeper for nothing good` },
 { name: `DRIPPYMAYO`, platform: `Xbox`, reasons: `- Selfish
 - Took dog away even though sacrifice was right there
 - Robs Shopkeep` },
@@ -248,6 +258,7 @@ const data =
 { name: `edd`, platform: `Steam`, reasons: `- Selfish, rushes to get items
 - Flaker, left when died` },
 { name: `Ekanslayer`, platform: `Switch`, reasons: `- Died and blew us for no reason` },
+{ name: `EL PILOTO`, platform: `Steam`, reasons: `- Rusher` },
 { name: `el rango me queda grande`, platform: `Steam`, reasons: `- Selfish` },
 { name: `ElectroMite`, platform: `Steam`, reasons: `- Flakes after dying` },
 { name: `elfin2343`, platform: `Xbox`, reasons: `- Wastes resources
@@ -281,6 +292,7 @@ const data =
 - Super toxic
 - Killed everyone for no reason
 - Then really tired to kill everyone` },
+{ name: `Fed7765`, platform: `Xbox`, reasons: `- Flaked after dying` },
 { name: `FenrirLuffy9`, platform: `Xbox`, reasons: `- Newbie
 - Messed up run` },
 { name: `Ferel`, platform: `Steam`, reasons: `- Robbed shopkeep for nothing good` },
@@ -291,14 +303,23 @@ const data =
 - Rushes` },
 { name: `FoulestBug47410`, platform: `Xbox`, reasons: `- Annoying ghost
 - Blowing us as a ghost and trying to mess us up` },
+{ name: `free_media`, platform: `PS`, reasons: `- Annoying ghost` },
+{ name: `FreshCutGrass`, platform: `Steam`, reasons: `- Robbed shopkeep even though we had enough money` },
 { name: `FRL LAION`, platform: `Xbox`, reasons: `- Rusher
 - Tried to blow items out of Tun's shop` },
 { name: `Frostwood714`, platform: `Xbox`, reasons: `- Robbed Shopkeep
 - Rushes
 - Wasted resources
 - Flaked after dying` },
+{ name: `Frotaku_`, platform: `PS`, reasons: `- Robbed shopkeeper` },
 { name: `FuegoTruck`, platform: `PS`, reasons: `- Picked us up and looked like he wanted to sacrifice without asking` },
 { name: `Furockeur`, platform: `Steam`, reasons: `- Newbie, messes up run` },
+{ name: `Gabe`, platform: `Switch`, reasons: `- Rusher
+- Super selfish
+- Rushes to grabs items for self
+- Does not share even though others have very little resources and he has a lot
+- Expects others to be cursed but doesn't offer even though he has the least health` },
+{ name: `GabGamer649`, platform: `Steam`, reasons: `- Robbed shopkeeper even though we had enough money` },
 { name: `gabriele`, platform: `Switch`, reasons: `- Robbed shopkeeper even though we said no` },
 { name: `Gamer Fluffle`, platform: `Xbox`, reasons: `- Selfish` },
 { name: `Geargasm`, platform: `Switch`, reasons: `- Annoying as ghost
@@ -328,6 +349,7 @@ const data =
 { name: `GunSlinger45728`, platform: `Xbox`, reasons: `- Main player syndrome
 - Killed us when he died
 - Didn't share items, took them himself` },
+{ name: `gustav`, platform: `Steam`, reasons: `- Kept whipping us for no reason` },
 { name: `Gustavo199281`, platform: `Xbox`, reasons: `- Rusher` },
 { name: `halo`, platform: `Switch`, reasons: `- Robbed shopkeeper for nothing good` },
 { name: `HalphaDragon`, platform: `Xbox`, reasons: `- Useless ghost
@@ -340,13 +362,16 @@ const data =
 - Killed us for no reason` },
 { name: `hardest`, platform: `Steam`, reasons: `- Robbed shopkeeper for nothing good
 - Robbed shopkeeper, failed, died, then flaked` },
-{ name: `HarshFool45`, platform: `PS`, reasons: `- Played poorly and died, then just raged and kept blowing us` },
-{ name: `HarshFool45`, platform: `PS`, reasons: `- Roped us for no reason
+{ name: `HarshFool45`, platform: `PS`, reasons: `- Played poorly and died, then just raged and kept blowing us
+- Roped us for no reason
 - Toxic` },
 { name: `Hawkeye4Life21`, platform: `Xbox`, reasons: `- Rage quits
 - Killed us when he thought we made a mistake` },
 { name: `HAZZ4RD_S4N`, platform: `PS`, reasons: `- Annoying
 - Rage quit` },
+{ name: `Hectorlava`, platform: `Switch`, reasons: `- Robbed shopkeeper recklessly` },
+{ name: `helen`, platform: `Switch`, reasons: `- Whipped others
+- Whipped others to rush to grab crate for self` },
 { name: `Hollowknight472`, platform: `Xbox`, reasons: `- Rusher
 - Broke soul jar in 1-4 right before Ghist shop, doesn’t know
 - Newbie` },
@@ -449,6 +474,8 @@ const data =
 { name: `KalRLC`, platform: `Steam`, reasons: `- Didn't revive us even though we were just there
 - Annoying ghost, blew us` },
 { name: `kenapa`, platform: `Steam`, reasons: `- Carries shield and kills others accidentally multiple times` },
+{ name: `Kenward`, platform: `Switch`, reasons: `- Impatient
+- Selfish` },
 { name: `kerberozx`, platform: `Xbox`, reasons: `- Impatient
 - Triggered Tun as a ghost to stop run` },
 { name: `kevin`, platform: `Switch`, reasons: `- Triggered shopkeeper for absolutely no reason, all items were already bought out` },
@@ -460,6 +487,7 @@ const data =
 { name: `kitty soft paws`, platform: `Steam`, reasons: `- Robbed shopkeep for nothing good
 - Hurts others on purpose or accident` },
 { name: `Klarkware`, platform: `Xbox`, reasons: `- Rage killed us at the beginning of restart, previous run was played with our best` },
+{ name: `Kohan0721`, platform: `Switch`, reasons: `- Selfish` },
 { name: `korbinadkins`, platform: `Steam`, reasons: `- Robbed shopkeep` },
 { name: `kyllerguy`, platform: `Switch`, reasons: `- Kept whipping us once at the beginning of the level` },
 { name: `L0G4N___V`, platform: `PS`, reasons: `- Flaked after dying` },
@@ -483,6 +511,8 @@ const data =
 { name: `Lilboybleu6621`, platform: `Xbox`, reasons: `- Rushes
 - Robbed shopkeeper for nothing` },
 { name: `lilly bear`, platform: `Switch`, reasons: `- Robbed shopkeeper for nothing good, almost had enough money` },
+{ name: `linkinpark`, platform: `Switch`, reasons: `- Rusher
+- Robbed shopkeeper` },
 { name: `Logan`, platform: `Switch`, reasons: `- Selfish, rushes to get all items for himself
 - Aggro when we didn't immediately revive him, even though he was useful as a ghost (refused to help as a ghost)` },
 { name: `LogicalFan79167`, platform: `Xbox`, reasons: `- Triggered Tun for no reason` },
@@ -520,6 +550,7 @@ const data =
 - Selfish` },
 { name: `marlonbgd`, platform: `Steam`, reasons: `- Plays poorly` },
 { name: `Mastab3ta420`, platform: `Xbox`, reasons: `- Threw curse jar at me, who had the highest health, without asking` },
+{ name: `Mastergame12609`, platform: `Xbox`, reasons: `- Selfish` },
 { name: `matteeeee`, platform: `Switch`, reasons: `- Flaked after dying` },
 { name: `maxim.ognivenko`, platform: `Steam`, reasons: `- Flaked after dying` },
 { name: `Maximo`, platform: `Switch`, reasons: `- Selfish` },
@@ -552,6 +583,7 @@ const data =
 { name: `Monty`, platform: `Steam`, reasons: `- Purposely threw turkey at us for no reason, hurt us` },
 { name: `Mordy-Moo`, platform: `PS`, reasons: `- Whipped and killed us for no reason
 - Super toxic` },
+{ name: `Moth`, platform: `Switch`, reasons: `- Robbed shopkeeper even though we had enough money and for nothing good` },
 { name: `Motyl3324`, platform: `Xbox`, reasons: `- Extremely selfish
 - Had the dog and the altar was right there; didn't want to sacrifice it because we were all standing nearby
 - Bought items from shops asap
@@ -570,8 +602,11 @@ const data =
 { name: `Nabildz80`, platform: `Xbox`, reasons: `- Plays dumb
 - Whipped Yang and died
 - Blew shopkeeper as a ghost to trigger him` },
+{ name: `naciendalwwd`, platform: `Steam`, reasons: `- Flaked after dying` },
 { name: `Name`, platform: `Switch`, reasons: `- Rages a lot; anger issues` },
 { name: `nappeunid`, platform: `Steam`, reasons: `- Triggered shopkeep even though we said no and for absolutely no reason` },
+{ name: `Necronomicon_lov`, platform: `PS`, reasons: `- Wastes resources
+- Died dumbly, then left` },
 { name: `Nekrыca`, platform: `Steam`, reasons: `- Left the person with the bow trapped and did not rescue even though there was plenty of time and had ropes` },
 { name: `noa1m`, platform: `Steam`, reasons: `- Whips us for no reason` },
 { name: `nolimitmai`, platform: `Xbox`, reasons: `- Flaked after dying` },
@@ -583,9 +618,12 @@ const data =
 { name: `NopNotoday`, platform: `Switch`, reasons: `- Robbed shopkeeper even though we said no` },
 { name: `not_player_2`, platform: `PS`, reasons: `- Rusher` },
 { name: `NotedMoon1725`, platform: `Xbox`, reasons: `- Robs Shopkeep without care of teammates` },
+{ name: `Nycto`, platform: `Switch`, reasons: `- Not fun to play with
+- Selfish` },
 { name: `NYxGamerHoodUkYT`, platform: `PS`, reasons: `- Selfish` },
 { name: `October82`, platform: `PS`, reasons: `- Rusher
 - Newbie, messes us up` },
+{ name: `oli`, platform: `Switch`, reasons: `- Selfish, grabs items for self` },
 { name: `Olibabwa`, platform: `Xbox`, reasons: `- Dies easily` },
 { name: `onix-lenx`, platform: `PS`, reasons: `- Whipped us for no reason
 - Damaged us for no reason` },
@@ -634,12 +672,14 @@ const data =
 { name: `Player49583366`, platform: `Xbox`, reasons: `- Used rope for two block high
 - Whipped soul jar for no reason
 - Bombed empty shop and triggered shopkeep for no reason` },
+{ name: `Portela`, platform: `Steam`, reasons: `- Flaked after dying` },
 { name: `powerful-bump368`, platform: `PS`, reasons: `- Greedy, selfish` },
 { name: `Professional Italian Man`, platform: `Steam`, reasons: `- Robbed shopkeeper for nothing good
 - Flaked after dying` },
 { name: `pug_509`, platform: `Switch`, reasons: `- Rushes
 - Robs Shopkeep` },
 { name: `Purwu`, platform: `Steam`, reasons: `- Flaked after dying` },
+{ name: `Quackchalice381`, platform: `Xbox`, reasons: `- Newbie, messes up run` },
 { name: `qualityBossMusicStarts`, platform: `Steam`, reasons: `- Whipped us and hurted us` },
 { name: `Quanie`, platform: `Switch`, reasons: `- Impatient
 - Main player syndrome` },
@@ -669,9 +709,10 @@ const data =
 { name: `Rexdenn`, platform: `Switch`, reasons: `- Robbed shopkeeper for nothing good` },
 { name: `rhys`, platform: `Switch`, reasons: `- Whipped us and hurt us for no reason at the beginning` },
 { name: `ria140399`, platform: `PS`, reasons: `- Selfish, quickly grabs items for self` },
-{ name: `ringmuncher9`, platform: `Xbox`, reasons: `- Died then flakes` },
-{ name: `ringmuncher9`, platform: `Xbox`, reasons: `- Whips us for no reason
+{ name: `ringmuncher9`, platform: `Xbox`, reasons: `- Died then flakes
+- Whips us for no reason
 - Toxic` },
+{ name: `RJ Joycon`, platform: `Switch`, reasons: `- Blew soul jar to trigger ghost then left` },
 { name: `Rng J4y1`, platform: `Xbox`, reasons: `- Rusher
 - Killed shopkeep for nothing good
 - Doesn't care about teammates
@@ -726,8 +767,13 @@ const data =
 - Threw arrow at us, then roped us at the next level
 - Toxic` },
 { name: `SKYBLAZER__`, platform: `PS`, reasons: `- Flaked when died` },
+{ name: `Skylerstarfire4`, platform: `PS`, reasons: `- Kept whipping us for no reason at the beginning
+- Toxic` },
 { name: `slapmaster`, platform: `Switch`, reasons: `- Throws stuff without regard, damaged us
 - Annoying ghost, blew us` },
+{ name: `Slenderboi120`, platform: `PS`, reasons: `- Kept whipping us at the beginning of the level
+- Rusher
+- Selfish` },
 { name: `SlicingThePi`, platform: `Xbox`, reasons: `- Rusher
 - Annoying` },
 { name: `SlNnamon Roll`, platform: `Xbox`, reasons: `- Flaked after dying` },
@@ -767,7 +813,8 @@ const data =
 { name: `Tapeworm765`, platform: `PS`, reasons: `- Plays poorly
 - Annoying as ghost; blowing and freezing us` },
 { name: `Tbone4187`, platform: `Xbox`, reasons: `- Rusher
-- Flaked after dying` },
+- Flaked after dying
+- Robbed shopkeeper` },
 { name: `tealhope2019`, platform: `Steam`, reasons: `- Flaked after dying` },
 { name: `techno_banana09`, platform: `PS`, reasons: `- Blew us for no reason as ghost
 - Annoying ghost` },
@@ -804,6 +851,8 @@ const data =
 { name: `theikek97`, platform: `Xbox`, reasons: `- Rusher
 - Robbed shopkeep for nothing good` },
 { name: `TheKingMlook`, platform: `Xbox`, reasons: `- Threw stuff to damage us` },
+{ name: `TheMaster91589`, platform: `Xbox`, reasons: `- Plays poorly
+- Tried to trigger shopkeeper as a ghost` },
 { name: `THEMEDICVAMPIRE`, platform: `Xbox`, reasons: `- Flakes` },
 { name: `Theo`, platform: `Switch`, reasons: `- Flaked after dying` },
 { name: `TheWakyToky`, platform: `Xbox`, reasons: `- Whips others to get their held items
@@ -819,6 +868,9 @@ const data =
 - Gets bored easily` },
 { name: `True-Perplex`, platform: `PS`, reasons: `- Robs shopkeep even though we had money
 - AFKs after dying` },
+{ name: `Tsukioka`, platform: `Steam`, reasons: `- Main player syndrome
+- Selfish, grabs items for self
+- Flaked after dying` },
 { name: `TTV_KINGKILER916`, platform: `PS`, reasons: `- Annoying ghost
 - Blew us and froze us, tries to kill us
 - Toxic` },
@@ -837,6 +889,10 @@ const data =
 { name: `UnlikeMallard17`, platform: `Xbox`, reasons: `- Selfish, grabs items for self
 - Dies easily
 - Makes a lot of mistakes` },
+{ name: `UpriverQuasar34`, platform: `Xbox`, reasons: `- Whipped us to get crate
+- Robbed shopkeeper stupidly and also we had enough money
+- Killed us
+- Toxic` },
 { name: `UpstageFlea3746`, platform: `Xbox`, reasons: `- Flaked after dying` },
 { name: `URFrstratdnotMe`, platform: `PS`, reasons: `- Robbed shopkeeper
 - Flaked after dying` },
@@ -855,11 +911,14 @@ const data =
 { name: `Victor HV3670`, platform: `Xbox`, reasons: `- Shot us and killed us
 - Robbed shopkeep` },
 { name: `VideoAudioBookGaming`, platform: `Steam`, reasons: `- Newbie, messes up run` },
+{ name: `vincevince`, platform: `PS`, reasons: `- Robbed shopkeeper even though we had enough money
+- Flaked after dying` },
 { name: `virgothh`, platform: `PS`, reasons: `- Selfish
 - Whips others to get to crate` },
 { name: `ViscaBarça`, platform: `Switch`, reasons: `- Robbed Shopkeep; could have afforded most things
 - Left the level without waiting
 - Killed us after getting killed` },
+{ name: `vladimirgamm364`, platform: `Steam`, reasons: `- Selfish` },
 { name: `vladsplayer`, platform: `Steam`, reasons: `- Dies too easily
 - Rushes
 - Selfish` },
@@ -878,6 +937,9 @@ const data =
 { name: `WhiteBear1005`, platform: `Xbox`, reasons: `- Started whipping us for no reason
 - Toxic` },
 { name: `Whiteluigi4658`, platform: `Xbox`, reasons: `- Left level before letting us do ghist shop, didn't wait` },
+{ name: `Whites_R_Supior`, platform: `PS`, reasons: `- AFKed most of the run
+- In Sunken City, kills us all
+- Super toxic` },
 { name: `WinterCat725428`, platform: `Xbox`, reasons: `- Rusher
 - Robbed shopkeep for nothing good
 - Flaked after dying` },
@@ -886,6 +948,8 @@ const data =
 - Even flaked when someone accidentally messed up on the ghist shop in 1-4
 - Rusher` },
 { name: `Woozy Cosby`, platform: `Xbox`, reasons: `- Robbed shopkeep` },
+{ name: `WordEstPage4`, platform: `Xbox`, reasons: `- Annoying ghost
+- Triggered shopkeeper as ghost` },
 { name: `worried-cake1011`, platform: `PS`, reasons: `- Robbed shopkeep
 - Plays poorly` },
 { name: `WroughtWig171`, platform: `Xbox`, reasons: `- Messes up run, probably newbie` },
@@ -900,6 +964,8 @@ const data =
 { name: `Xolo`, platform: `Steam`, reasons: `- Rusher` },
 { name: `Xruel Wrld`, platform: `Xbox`, reasons: `- Selfish: doesn't share items with others, expects others to be cursed for Ghist shop even though he had the lowest health` },
 { name: `XSoulxReaperX0`, platform: `Xbox`, reasons: `- Plays poorly` },
+{ name: `XxslxsherxX5060`, platform: `Xbox`, reasons: `- Rusher
+- Robbed shopkeep for nothing good` },
 { name: `YanMestreGames`, platform: `Steam`, reasons: `- Annoying ghost` },
 { name: `Yassine`, platform: `Switch`, reasons: `- Not fun to play with` },
 { name: `Yoma`, platform: `Steam`, reasons: `- Flaked after dying` },
@@ -912,6 +978,8 @@ const data =
 { name: `zacnmac`, platform: `Switch`, reasons: `- Robbed shopkeeper for nothing
 - Shot us without caring about teammates, killed us` },
 { name: `Zan`, platform: `Steam`, reasons: `- Flaked after dying` },
+{ name: `Zaza90zaz2132`, platform: `PS`, reasons: `- Rusher
+- Selfish` },
 { name: `ZeeZee`, platform: `Switch`, reasons: `- Rusher
 - Robbed shopkeep` },
 { name: `zeuyx`, platform: `Steam`, reasons: `- Throws curse pot at us without asking and on 1-1
@@ -924,7 +992,7 @@ const data =
 - Selfish` },
 { name: `zypie`, platform: `Steam`, reasons: `- Rusher` },
 { name: `ランパ`, platform: `Steam`, reasons: `- Kills others
-- Toxic` }
+- Toxic` },
 ];
 
 let showReasons = true;
