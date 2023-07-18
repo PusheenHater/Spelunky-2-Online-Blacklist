@@ -1,10 +1,10 @@
 # Spelunky 2 Online Blacklist
 Searchable list of players in Spelunky 2 Online that you do **NOT** want to play with.
 
+![splash](images/splash.png)
+
 ## Try it out here:
 https://pusheenhater.github.io/Spelunky-2-Online-Blacklist/
-
-![splash](images/splash.png)
 
 ## Explanation of the common reasons (listed from least to most worst):
 Note: Many players on the blacklist have overlaps.
